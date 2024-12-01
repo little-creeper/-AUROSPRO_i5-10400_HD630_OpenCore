@@ -1,4 +1,4 @@
-# GigaByte_AORUSSPRO_i5-10400_HD630_OpenCore引导 配置文件
+# GigaByte_AORUSPRO_i5-10400_HD630_OpenCore引导 配置文件
 
 ## 硬件信息
 | **项目** | **参数** |
